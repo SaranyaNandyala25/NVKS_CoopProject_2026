@@ -1,1 +1,5 @@
+network file for developement
 \\DESKTOP-K59ITNC\Power_BI_VinayTechHouse\Practice Reports\Coop Project\Multi Customer DWH-Tabular Cube Data.xlsx
+
+n/w path for test
+\\DESKTOP-K59ITNC\Power_BI_VinayTechHouse\Practice Reports\Coop Project\test\Multi Customer DWH-Tabular Cube Data.xlsx
